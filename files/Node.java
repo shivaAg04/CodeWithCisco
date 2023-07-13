@@ -1,5 +1,4 @@
 
-
 public class Node {
     int isMaster;
     // String MacAddress;
